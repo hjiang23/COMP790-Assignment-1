@@ -12,6 +12,8 @@ Unfortunately, my unfamiliarity with programming in Unity has led to there being
 
 Image is demo.jpg
 
+Library folder is not in repo
+
 ## External Assets Used
 
 https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
